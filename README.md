@@ -1,3 +1,7 @@
+# Note
+
+I think this type of interface to the Bitcoin LN is still a good idea, I just haven't had time to work on this, and am unlikely to in the near future.
+
 # Python-Lightning
 
 A Python 3 implementation of the Bitcoin Lightning Network.
